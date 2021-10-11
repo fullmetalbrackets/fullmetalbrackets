@@ -1,7 +1,7 @@
 name: Latest blog post
 on:
-  repository_dispatch:
-    types: [blog.post]
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme-with-blog:
