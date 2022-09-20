@@ -4,9 +4,9 @@
 
 ## 💻 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turn a static website into a progressive web app](https://arieldiaz.codes/blog/turn-a-static-website-into-a-progressive-web-app)
-- [Quick guide to set up Zsh + Oh My Zsh with essential plugins and a theme](https://arieldiaz.codes/blog/quick-guide-setting-up-zsh-oh-my-zsh-plugins-and-theme)
-- [You should be using Nuxt-Vite module with Nuxt 2 &lpar;if it works&rpar;](https://arieldiaz.codes/blog/you-should-be-using-nuxt-vite-module-with-nuxt-2-if-it-works)
-- [How to use a custom PrismJS theme with Nuxt/Content](https://arieldiaz.codes/blog/how-to-use-a-custom-prismjs-theme-with-nuxt-content)
-- [How to use Netlify Forms in a Nuxt site and make sure it gets detected](https://arieldiaz.codes/blog/how-to-use-netlify-forms-in-a-nuxt-site-and-make-sure-it-gets-detected)
+- [Markdown hacks](https://arieldiaz.codes/blog/markdown-hacks/)
+- [Styling the kbd element](https://arieldiaz.codes/blog/styling-the-kbd-element/)
+- [Linux Commands Cheat Sheet](https://arieldiaz.codes/blog/basic-linux-commands/)
+- [VIM Quick Guide](https://arieldiaz.codes/blog/vim-quick-guide/)
+- [Turn a static website into a progressive web app](https://arieldiaz.codes/blog/turn-a-static-website-into-a-progressive-web-app/)
 <!-- BLOG-POST-LIST:END -->
