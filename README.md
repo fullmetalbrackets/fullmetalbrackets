@@ -4,9 +4,9 @@
 
 ## 💻 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up a container stack with Docker-Compose](https://arieldiaz.codes/blog/setting-up-a-container-stack-with-docker-compose/)
 - [Markdown hacks](https://arieldiaz.codes/blog/markdown-hacks/)
 - [Styling the kbd element](https://arieldiaz.codes/blog/styling-the-kbd-element/)
 - [Linux Commands Cheat Sheet](https://arieldiaz.codes/blog/basic-linux-commands/)
 - [VIM Quick Guide](https://arieldiaz.codes/blog/vim-quick-guide/)
-- [Turn a static website into a progressive web app](https://arieldiaz.codes/blog/turn-a-static-website-into-a-progressive-web-app/)
 <!-- BLOG-POST-LIST:END -->
