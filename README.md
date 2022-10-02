@@ -4,9 +4,9 @@
 
 ## 💻 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bootstrapping a fresh Linux install with Ansible](https://arieldiaz.codes/blog/bootstrapping-a-fresh-linux-install-with-ansible/)
 - [Setting up a container stack with Docker-Compose](https://arieldiaz.codes/blog/setting-up-a-container-stack-with-docker-compose/)
+- [Transferring files between hosts with SCP](https://arieldiaz.codes/blog/transferring-files-between-hosts-with-scp/)
 - [Markdown hacks](https://arieldiaz.codes/blog/markdown-hacks/)
 - [Styling the kbd element](https://arieldiaz.codes/blog/styling-the-kbd-element/)
-- [Linux Commands Cheat Sheet](https://arieldiaz.codes/blog/basic-linux-commands/)
-- [VIM Quick Guide](https://arieldiaz.codes/blog/vim-quick-guide/)
 <!-- BLOG-POST-LIST:END -->
