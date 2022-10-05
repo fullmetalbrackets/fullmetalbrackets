@@ -4,9 +4,9 @@
 
 ## 💻 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Customizing the Windows Terminal command prompt with Oh-My-Posh](https://arieldiaz.codes/blog/customizing-the-windows-terminal-prompt-with-starship/)
-- [Bootstrapping a fresh Linux install with Ansible](https://arieldiaz.codes/blog/bootstrapping-a-fresh-linux-install-with-ansible/)
+- [Keeping a Linux laptop on when the lid is closed](https://arieldiaz.codes/blog/keeping-a-linux-laptop-on-with-the-lid-closed/)
+- [Customizing the Windows Terminal command prompt with Oh-My-Posh](https://arieldiaz.codes/blog/customizing-windows-terminal-with-ohmyposh/)
+- [Bootstrapping a fresh Linux install with Ansible](https://arieldiaz.codes/blog/bootstrapping-fresh-install-with-ansible/)
 - [Setting up a container stack with Docker-Compose](https://arieldiaz.codes/blog/setting-up-a-container-stack-with-docker-compose/)
 - [Transferring files between hosts with SCP](https://arieldiaz.codes/blog/transferring-files-between-hosts-with-scp/)
-- [Markdown hacks](https://arieldiaz.codes/blog/markdown-hacks/)
 <!-- BLOG-POST-LIST:END -->
