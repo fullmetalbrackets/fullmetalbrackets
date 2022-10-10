@@ -4,9 +4,9 @@
 
 ## 💻 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell commands cheat sheet](https://arieldiaz.codes/blog/powershell-commands-cheat-cheat/)
 - [Set up and configure Pi-Hole for network-wide ad blocking](https://arieldiaz.codes/blog/set-up-pihole-on-linux/)
 - [Set a static IP in Debian](https://arieldiaz.codes/blog/set-static-ip-debian/)
 - [Install sudo and setup a sudo account in Debian](https://arieldiaz.codes/blog/install-and-use-sudo-debian/)
 - [Using Surge.sh to quickly and easily host static sites](https://arieldiaz.codes/blog/using-surge-sh-to-host-static-sites/)
-- [Keeping a Linux laptop on when the lid is closed](https://arieldiaz.codes/blog/keeping-a-linux-laptop-on-with-the-lid-closed/)
 <!-- BLOG-POST-LIST:END -->
