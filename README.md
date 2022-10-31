@@ -10,3 +10,6 @@
 - [Setup self-hosted Jellyfin Media Server in Docker](https://arieldiaz.codes/blog/setting-up-jellyfin-in-docker/)
 - [Setup self-hosted Plex Media Server in Docker](https://arieldiaz.codes/blog/setting-up-plex-in-docker/)
 <!-- BLOG-POST-LIST:END -->
+
+##
+![](https://komarev.com/ghpvc/?username=fullmetalbrackets&flat-square&color=fa28ad)
