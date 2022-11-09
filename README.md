@@ -6,11 +6,11 @@ I'm learning.
 
 ## 💻 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use Solid Explorer app to access SMB network shares from an Android device](https://arieldiaz.codes/blog/solid-explorer-samba-share/)
 - [How to run self-hosted FileBrowser in Docker](https://arieldiaz.codes/blog/how-to-run-filebrowser-in-docker/)
 - [How to generate a GPG key and use it to sign git commits](https://arieldiaz.codes/blog/How-to-generate-GPG-to-sign-git-commits/)
 - [Set up NFS Shares between Linux hosts](https://arieldiaz.codes/blog/setup-nfs-shares-linux/)
 - [How to format and/or partition disks in Linux](https://arieldiaz.codes/blog/how-to-format-partiton-linux/)
-- [Setup Prometheus, Node Exporter, Cadvisor and Grafana in Docker](https://arieldiaz.codes/blog/setup-prometheus-cadvisor-grafana/)
 <!-- BLOG-POST-LIST:END -->
 
 ##
