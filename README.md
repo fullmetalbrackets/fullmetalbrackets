@@ -4,7 +4,7 @@ I'm learning.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fullmetalbrackets&background=202124&dates=b3e4ff&currStreakNum=009eaa&sideNums=009eaa&stroke=009eaa&ring=de7a00&sideLabels=de7a00&fire=f2cf2b&currStreakLabel=009eaa&hide_border=true)](https://git.io/streak-stats)
 
-## 💻 My latest blog posts
+## 💻 My latest posts
 <!-- BLOG-POST-LIST:START -->
 - [OpenMediaVault Quick Reference](https://arieldiaz.codes/blog/openmediavault-quick-reference/)
 - [Setup a Cloudflare Tunnel to securely access self-hosted apps with a domain from outside the home network](https://arieldiaz.codes/blog/setup-cloudflare-tunnel-to-access-self-hosted-apps/)
