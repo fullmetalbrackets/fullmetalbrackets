@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World.+👋)](https://git.io/typing-svg)
 
-## 💻 My latest posts
+## 💻 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [OpenMediaVault Quick Reference](https://arieldiaz.codes/blog/openmediavault-quick-reference/)
 - [Setup a Cloudflare Tunnel to securely access self-hosted apps with a domain from outside the home network](https://arieldiaz.codes/blog/setup-cloudflare-tunnel-to-access-self-hosted-apps/)
