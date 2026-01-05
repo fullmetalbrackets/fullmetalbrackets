@@ -10,4 +10,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 ##
-![](https://komarev.com/ghpvc/?username=fullmetalbrackets&flat-square&color=009eaa)
+<a href="https://proven.lol/0f0fe2" target="_blank"><img src="https://cdn.cache.lol/img/prami-badge.svg" width="20px" height="20px"></a> ![](https://komarev.com/ghpvc/?username=fullmetalbrackets&flat-square&color=009eaa)
